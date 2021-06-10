@@ -26,7 +26,7 @@ Each element is well presented in a very complex documentation. You can read mor
 
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here](https://demos.creative-tim.com/argon-design-system-react/#/landing-page?ref=adsr-github-readme).
+View [example pages here](https://demos.creative-tim.com/argon-design-system-react/#/Portfolio-page?ref=adsr-github-readme).
 
 
 ## Table of Contents
@@ -60,9 +60,9 @@ View [example pages here](https://demos.creative-tim.com/argon-design-system-rea
 | --- | --- | ---  |
 | [![Buttons](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/buttons.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/)  | [![Inputs](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/inputs.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/)  | [![Navbar](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/navbars.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/)  
 
-| Login Page | Landing Page | Profile Page  | Register Page  |
+| Login Page | Portfolio Page | Profile Page  | Register Page  |
 | --- | --- | ---  | ---  |
-| [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/main/argon-design-system-react/login.png)](https://demos.creative-tim.com/argon-design-system-react/#/login-page)  | [![Landing Page](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/landing.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/landing-page)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/profile.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/profile-page)  | [![Register Page](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/register.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/register-page)  
+| [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/main/argon-design-system-react/login.png)](https://demos.creative-tim.com/argon-design-system-react/#/login-page)  | [![Portfolio Page](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/Portfolio.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/Portfolio-page)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/profile.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/profile-page)  | [![Register Page](https://github.com/creativetimofficial/public-assets/blob/main/argon-design-system-react/register.png?raw=true)](https://demos.creative-tim.com/argon-design-system-react/#/register-page)  
 
 
 [View More](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme)
@@ -162,7 +162,7 @@ Argon Design System React
         │   ├── TooltipPopover.js
         │   └── Typography.js
         └── examples
-            ├── Landing.js
+            ├── Portfolio.js
             ├── Login.js
             ├── Profile.js
             └── Register.js
